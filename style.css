@@ -1,0 +1,15 @@
+/* style.css */
+body {
+  background-color: #1e1f26; /* ダークな背景 */
+  color: #ffffff;            /* 白いテキスト */
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  background-color: #5a2ca0; /* パープル */
+  color: #ffffff;
+  text-align: center;
+  padding: 12px;
+}
